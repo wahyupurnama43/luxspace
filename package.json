@@ -1,7 +1,7 @@
 {
-  "name": "luxspace-webpack",
+  "name": "luxspace",
   "version": "1.0.0",
-  "description": "",
+  "description": "Basic boilerplate to get started slicing so you don't need to think about configuration.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -38,5 +38,13 @@
   },
   "dependencies": {
     "full": "^1.0.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wahyupurnama43/luxspace.git"
+  },
+  "bugs": {
+    "url": "https://github.com/wahyupurnama43/luxspace/issues"
+  },
+  "homepage": "https://github.com/wahyupurnama43/luxspace#readme"
 }
