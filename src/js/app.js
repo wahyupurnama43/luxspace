@@ -1,3 +1,4 @@
 import "../css/app.css";
-import "./menu-toggler.js";
-import "./modal.js";
+import "./menu-toggler";
+import "./modal";
+import "./ancor-link-smooth";
