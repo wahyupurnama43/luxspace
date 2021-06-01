@@ -4,3 +4,4 @@ import "./modal";
 import "./ancor-link-smooth";
 import "./caraousel";
 import "./accordion";
+import "./slider";
