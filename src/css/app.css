@@ -127,3 +127,7 @@ a.cart svg g circle.dot{
 a.cart-filled svg g circle.dot{
     @apply block;
 }
+
+button[disabled]{
+    @apply bg-gray-200 hover:bg-gray-200 text-gray-400 hover:text-gray-400 cursor-not-allowed;
+}

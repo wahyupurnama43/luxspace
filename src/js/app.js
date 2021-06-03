@@ -5,3 +5,5 @@ import "./ancor-link-smooth";
 import "./caraousel";
 import "./accordion";
 import "./slider";
+import "./shopping-cart";
+import "./shippingDetail";
