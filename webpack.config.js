@@ -17,7 +17,7 @@ const htmlPluginEntries = templateFiles.map(
     new HTMLWebpackPlugin({
       inject: true,
       hash: false,
-      minify: true,
+      minify: false,
       filename: template,
       template: path.resolve(environment.paths.source, "templates", template),
       favicon: path.resolve(environment.paths.source, "images", "favicon.ico"),
